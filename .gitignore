@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+launchSettings.local.json
+.env
+.env.*
+!.env.example

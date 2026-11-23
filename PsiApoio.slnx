@@ -2,4 +2,7 @@
   <Folder Name="/src/">
     <Project Path="src/PsiApoio.Api/PsiApoio.Api.csproj" />
   </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PsiApoio.Api.Tests/PsiApoio.Api.Tests.csproj" />
+  </Folder>
 </Solution>
